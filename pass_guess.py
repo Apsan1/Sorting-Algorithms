@@ -20,7 +20,7 @@ def password_cracker(letters,password):
     return your_pw
 
 def main():
-    password = ''
+    password = 'arina567474'
     print(password)
     letters = arrayOfLetters()
     print('Your password is: ',password_cracker(letters,password))
